@@ -2,6 +2,9 @@
 
 A full-stack web application that analyzes resumes against job descriptions.
 
+## 📌 Overview
+A smart web app that compares resumes with job descriptions.
+
 ## 🔥 Features
 - Upload resume (PDF)
 - Compare with job description
@@ -11,7 +14,7 @@ A full-stack web application that analyzes resumes against job descriptions.
 - FastAPI (Backend)
 - React.js (Frontend)
 - Python (PDF parsing)
-- OpenAI API (can be integrated)
+- OpenAI API (can be integrated easily)
 
 ## ⚠️ Note
 Currently uses mock AI response for testing.
@@ -24,4 +27,3 @@ resume-scanner-ai/
 ## 💡 Future Improvements
 - Real AI integration
 - Better UI/UX
-- Score visualization
